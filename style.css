@@ -1,0 +1,37 @@
+
+
+.alignToCenter{
+    border: 1px solid;
+    text-align: center;
+    position: relative;
+    color: black;
+    text-shadow: black;
+    background-color: cornsilk;
+    opacity: 0.85;
+}
+
+#main-section{
+    background-color: white;
+    opacity: 0.85;
+    text-align: center;
+}
+
+#tombol{
+    margin-left: 10px;
+}
+
+#form{
+    padding: 10px;
+}
+
+body{
+    background-image: url("./zoltar.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: 450px 800px;
+    padding: 10px;
+    
+}
+
+#hint{
+    text-align: left;
+}
